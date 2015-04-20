@@ -4,7 +4,7 @@ This is the simples possible App that I can think of that implements the React l
 
 ## Installation
 
-    git clone git@github.com:bengrunfeld/react-flux-simple-app.git
+    git clone https://github.com/whitehorse5353/react-flux-todo.git
     cd react-flux-simple-app
     npm install
     gulp
